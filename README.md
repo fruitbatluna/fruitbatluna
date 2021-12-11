@@ -1,5 +1,5 @@
 - 🌙 Hi, I’m @fruitbatluna
-- 📚 I’m interested in Web Development, Art, Gothic Lit and animals. 
+- 📚 I’m interested in Web Development, Reading, and Animals.
 - 🌱 I’m currently learning CSS
 
 <!---
