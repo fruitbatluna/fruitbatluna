@@ -1,6 +1,6 @@
 - 🌙 Hi, I’m @fruitbatluna
 - 📚 I’m interested in Web Development, Reading, and Animals.
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Python
 
 <!---
 fruitbatluna/fruitbatluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
